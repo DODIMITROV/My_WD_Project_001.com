@@ -2,16 +2,19 @@
 <html>
 <body>
 
-<h1>Version 5</h1>
+<h1>Version 2</h1>
 <p> XYZ
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut faucibus elementum urna. Integer vulputate orci sed leo feugiat pellentesque. Aenean ornare commodo rhoncus. In id ornare sem, quis molestie metus. Aenean mattis orci id nisl vulputate, ut dictum erat rhoncus. Maecenas non vulputate purus. Sed elementum libero pretium ipsum lobortis ullamcorper. Maecenas finibus lobortis nunc eget laoreet. Integer a sollicitudin augue, eu ullamcorper risus. Aenean a convallis quam. </p>
 <p> 123 <p>
 
 <p> lorem ipsum <p>
 <p> lorem ipsum VErison 5 <p>
+<h2>    Web project
+</h2>
 
 <script type="text/javascript">
 alert ("Welcome in a New world");
 </script>
+
 </body>
 </html> 
