@@ -12,6 +12,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut faucibus elementum u
 <h2>    Web project
 </h2>
 
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
+
 <script type="text/javascript">
 alert ("Welcome in a New world");
 </script>
